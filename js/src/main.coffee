@@ -11,7 +11,7 @@ errorCallback = (e) ->
     <li>currently this means (more or less): <a href="https://www.google.com/chrome" target="_blank">Google Chrome</a></li>
   </ul>
   Oh yeah, and when your browser asks you to access your webcam, you have to click "Allow".
-  <br>If this does not solve your problem, and you think it\'s the code and not your browser, just go to <a href="https://github.com/franzenzenhofer/Spiegel">github</a> and start forking - it\'s open source!<p>
+  <br>If thiss does not solve your problem, and you think it\'s the code and not your browser, just go to <a href="https://github.com/franzenzenhofer/Spiegel">github</a> and start forking - it\'s open source!<p>
   <code>ERROR: '+tec_error+'</code>
   </div>')
 
